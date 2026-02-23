@@ -24,7 +24,7 @@ I love messy datasets. I love patterns.
       <strong>Excel</strong>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="55"/><br>
+      <img src="https://logo.svgcdn.com/logos/tableau.png" width="55"/><br>
       <strong>Tableau</strong>
     </td>
     <td align="center" width="100">
@@ -63,7 +63,7 @@ I love messy datasets. I love patterns.
     </td>
   </tr>
 </table>
-  
+
 ## 🌷 What I’m Working On
 - Data Analysis & Visualization  
 - Machine Learning (Python & SQL)  
