@@ -4,7 +4,7 @@
 
 ## 💐 My Plot Twist? I Fell in Love with Data
 I started with a background in strategic management.  
-Currently transitioning into Data Analytics & Engineering — blending business thinking with technical execution.
+Currently transitioning into Data Analytics & Engineering, blending business thinking with technical execution.
 I love messy datasets. I love patterns.
 
 ## 🌸 Tech Stack
