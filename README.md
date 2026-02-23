@@ -16,15 +16,15 @@ I love messy datasets. I love patterns.
       <strong>Python</strong>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="55"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/><br>
       <strong>SQL</strong>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="55"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-plain.svg" width="55"/><br>
       <strong>Excel</strong>
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="55"/><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Tableau_logo.svg" width="55"/><br>
       <strong>Tableau</strong>
     </td>
     <td align="center" width="100">
@@ -50,16 +50,16 @@ I love messy datasets. I love patterns.
       <strong>Pandas</strong>
     </td>
     <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Seaborn_logo.svg" width="55"/><br>
+      <strong>Seaborn</strong>
+    </td>
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/><br>
       <strong>NumPy</strong>
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55"/><br>
       <strong>Matplotlib</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="55"/><br>
-      <strong>Seaborn</strong>
     </td>
   </tr>
 </table>
