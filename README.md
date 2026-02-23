@@ -2,44 +2,62 @@
 🌸 I’m Susan Katie Omondi 👩🏽‍💻  
 📍 Nairobi | Kenya
 
-# 💐 My Plot Twist? I Fell in Love with Data
+## 💐 My Plot Twist? I Fell in Love with Data
 I started with a background in strategic management.  
 Currently transitioning into Data Analytics & Engineering — blending business thinking with technical execution.
 I love messy datasets. I love patterns.
 
-# 🌸 Tech Stack
+## 🌸 Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/><br>
-      <strong>Python</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/><br>
-      <strong>SQL</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="55"/><br>
-      <strong>Excel</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="55"/><br>
-      <strong>Tableau</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/><br>
-      <strong>Power BI</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/><br>
-      <strong>Git</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" style="margin:15px;"/><br>
+  <strong>Python</strong>
+</p>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" style="margin:15px;"/><br>
+  <strong>SQL</strong>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="55" style="margin:15px;"/><br>
+  <strong>Excel</strong>
+</p>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="55" style="margin:15px;"/><br>
+  <strong>Tableau</strong>
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55" style="margin:15px;"/><br>
+  <strong>Power BI</strong>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" style="margin:15px;"/><br>
+  <strong>Git</strong>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" style="margin:15px;"/><br>
+  <strong>GitHub</strong>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="55" style="margin:15px;"/><br>
+  <strong>Scikit-Learn</strong>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" style="margin:15px;"/><br>
+  <strong>Pandas</strong>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" style="margin:15px;"/><br>
+  <strong>NumPy</strong>
+</p>
 # 🌷 What I’m Working On
 - Data Analysis & Visualization  
 - Machine Learning (Python & SQL)  
