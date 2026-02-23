@@ -20,11 +20,11 @@ I love messy datasets. I love patterns.
       <strong>SQL</strong>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-plain.svg" width="55"/><br>
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="55"/><br>
       <strong>Excel</strong>
     </td>
     <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Tableau_logo.svg" width="55"/><br>
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="55"/><br>
       <strong>Tableau</strong>
     </td>
     <td align="center" width="100">
@@ -42,7 +42,7 @@ I love messy datasets. I love patterns.
       <strong>GitHub</strong>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="55"/><br>
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="55"/><br>
       <strong>Scikit-Learn</strong>
     </td>
     <td align="center" width="100">
@@ -50,7 +50,7 @@ I love messy datasets. I love patterns.
       <strong>Pandas</strong>
     </td>
     <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Seaborn_logo.svg" width="55"/><br>
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968316.png" width="55"/><br>
       <strong>Seaborn</strong>
     </td>
     <td align="center" width="100">
