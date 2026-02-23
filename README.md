@@ -9,59 +9,64 @@ I love messy datasets. I love patterns.
 
 ## 🌸 Tech Stack
 
-## 🌸 Tech Stack
-
-<div style="text-align:center;">
-
-  <div style="display:inline-block; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/><br>
-    <strong>Python</strong>
-  </div>
-
-  <div style="display:inline-block; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/><br>
-    <strong>SQL</strong>
-  </div>
-
-  <div style="display:inline-block; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="55"/><br>
-    <strong>Excel</strong>
-  </div>
-
-  <div style="display:inline-block; margin:20px;">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="55"/><br>
-    <strong>Tableau</strong>
-  </div>
-
-  <div style="display:inline-block; margin:20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/><br>
-    <strong>Power BI</strong>
-  </div>
-
-  <div style="display:inline-block; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/><br>
-    <strong>Git</strong>
-  </div>
-
-  <div style="display:inline-block; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/><br>
-    <strong>GitHub</strong>
-  </div>
-
-  <div style="display:inline-block; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="55"/><br>
-    <strong>Scikit-Learn</strong>
-  </div>
-
-  <div style="display:inline-block; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/><br>
-    <strong>Pandas</strong>
-  </div>
-
-  <div style="display:inline-block; margin:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/><br>
-    <strong>NumPy</strong>
-  </div>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/><br>
+      <strong>Python</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="55"/><br>
+      <strong>SQL</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="55"/><br>
+      <strong>Excel</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="55"/><br>
+      <strong>Tableau</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/><br>
+      <strong>Power BI</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/><br>
+      <strong>Git</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/><br>
+      <strong>GitHub</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="55"/><br>
+      <strong>Scikit-Learn</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/><br>
+      <strong>Pandas</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/><br>
+      <strong>NumPy</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55"/><br>
+      <strong>Matplotlib</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="55"/><br>
+      <strong>Seaborn</strong>
+    </td>
+  </tr>
+</table>
   
 ## 🌷 What I’m Working On
 - Data Analysis & Visualization  
