@@ -1,6 +1,6 @@
 
-Susan Katie Omondi 
-Data Analytics | Business Intelligence | Data Science
+## Susan Katie Omondi 
+## Data Analytics | Business Intelligence | Data Science
 Nairobi | Kenya
 
 I work with data to uncover patterns, investigate business problems, and turn raw information into useful insights. My work spans data cleaning, exploratory data analysis, SQL querying, visualisation, dashboard development, and predictive modelling. I blend business thinking with technical execution.
