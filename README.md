@@ -1,13 +1,12 @@
 
-🌸 I’m Susan Katie Omondi 👩🏽‍💻  
-📍 Nairobi | Kenya
+Susan Katie Omondi 
+Data Analytics | Business Intelligence | Data Science
+Nairobi | Kenya
 
-## 💐 My Plot Twist? I Fell in Love with Data
-I started with a background in strategic management.  
-Currently transitioning into Data Analytics & Engineering, blending business thinking with technical execution.
+I work with data to uncover patterns, investigate business problems, and turn raw information into useful insights. My work spans data cleaning, exploratory data analysis, SQL querying, visualisation, dashboard development, and predictive modelling. I blend business thinking with technical execution.
 I love messy datasets. I love patterns.
 
-## 🌸 Tech Stack
+## Tech Stack
 
 <table align="center">
   <tr>
@@ -64,23 +63,23 @@ I love messy datasets. I love patterns.
   </tr>
 </table>
 
-## 🌷 What I’m Working On
+## What I’m Working On
 - Data Analysis & Visualization  
-- Machine Learning (Python & SQL)  
+- Machine Learning  
 - Business & Product Analytics
 - Statistical Modeling
 - Business Intelligence
 
-## 🌸 What I Bring
+## What I Bring
 - Business + Tech mindset (not just code)
 - Experience with real-world data  
 - Strong communication skills  
-- Fast learner and team collaborator
+- Team collaborator
 
-## 🌺 Let’s Connect
+## Let’s Connect
 - 🌍 Portfolio: https://www.datascienceportfol.io/Susan_Omondi
 - 💼 LinkedIn: https://www.linkedin.com/in/susan-omondi/  
 - 📧 Email: susankatie1901@gmail.com
 
-## 🌷 My Philosophy
+## My Philosophy
 If the insight can’t guide a decision, it’s not done yet🙂
